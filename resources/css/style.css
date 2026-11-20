@@ -1,18 +1,28 @@
 body {
-   background-color: #00000;
+   background-color: #000000;
    text-align: center;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    
 }
-
+/* Header Styles */
 .header--main {
    font-weight: normal;
    font-size: 50px;
-   color: #fffff;
+   color: #ffffff;
 }
-
+.header--secondary {
+   font-weight: 300;
+   font-size: 42px;
+   color: #ffffff;
+}
+.header--tertiary {
+   font-weight: 300;
+   font-size: 21px;
+   color: gray;
+}
+/* Link Styles */
 .link--cta {
    font-size: 16px;
    color: aquamarine;
-   
+
 }
